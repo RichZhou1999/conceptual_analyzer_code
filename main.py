@@ -29,7 +29,7 @@ plt.rcParams['font.sans-serif']=['simhei']
 
 
 win = tkinter.Tk()
-win.title("结构力学概念分析器v2.0")    # #窗口标题
+win.title("结构力学概念分析器v2.1")    # #窗口标题
 win.iconbitmap(f'{os.getcwd()}/infor/tubiao.ico')
 sw =win.winfo_screenwidth()
 sh = win.winfo_screenheight()
