@@ -8,6 +8,8 @@ https://github.com/ultralytics/yolov5
 数据集制作：https://www.makesense.ai/
 
 
+![image](https://github.com/RichZhou1999/conceptual_analyzer_code/blob/hsj/%E5%9B%BE%E7%89%871.png)
+
 格式：\
 标号 名称\
 0  刚性支座  \
