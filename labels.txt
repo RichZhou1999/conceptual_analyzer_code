@@ -1,0 +1,11 @@
+rigid support
+fixed hinge support
+movable hingle support
+sliding support
+rigid node
+hinge node
+r-h node 0
+r-h node 90
+r-h node -90
+r-h node 180
+overhanging node
