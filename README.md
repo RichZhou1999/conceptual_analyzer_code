@@ -11,10 +11,15 @@ https://github.com/ultralytics/yolov5
 ![image](https://github.com/RichZhou1999/conceptual_analyzer_code/blob/hsj/%E5%9B%BE%E7%89%871.png)
 
 格式：\
-标号 名称\
-0  刚性支座  \
-1  铰支座    \
-2  滑动支座  \
-3  刚性节点  \
-4  铰节点    \
-5  刚-铰节点 
+labels name\
+0 rigid support\
+1 fixed hinge support\
+2 movable hingle support\
+3 sliding support\
+4 rigid node\
+5 hinge node\
+6 r-h node 0\
+7 r-h node 90\
+8 r-h node -90\
+9 r-h node 180\
+10 overhanging node\
